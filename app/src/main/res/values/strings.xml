@@ -3,4 +3,6 @@
     <string name="power_connected">power_connected</string>
     <string name="power_disconnect">power_disconnect</string>
     <string name="send_broadcast">Send Broadcast</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
 </resources>
